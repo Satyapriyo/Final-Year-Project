@@ -1,0 +1,997 @@
+text,figurative_language_type,emotion
+"Her smile was a ray of sunshine on a cloudy day.",Metaphor,Happiness
+"He drowned in a sea of grief after losing his job.",Metaphor,Sadness
+"The weight of the world is on my shoulders.",Metaphor,Stress
+"Her heart was a fragile glass, shattered into pieces.",Metaphor,Sadness
+"His anger was a volcano, ready to erupt at any moment.",Metaphor,Anger
+"Time is a thief, stealing moments we can never get back.",Metaphor,Sadness
+"She has a heart of gold, always helping others in need.",Metaphor,Happiness
+"The classroom was a zoo during the substitute teacher's absence.",Metaphor,Chaos
+"His words were daggers, piercing through her confidence.",Metaphor,Anger
+"The news hit him like a ton of bricks, leaving him speechless.",Simile,Shock
+"She was as busy as a bee, juggling multiple tasks at once.",Simile,Stress
+"His laughter was like music to her ears, soothing and joyful.",Simile,Happiness
+"The silence was as thick as a blanket, suffocating and heavy.",Simile,Fear
+"Her eyes were as cold as ice, revealing no emotion.",Simile,Disgust
+"The storm of applause erupted as soon as she finished her speech.",Metaphor,Happiness
+"He was a lion in battle, fearless and strong.",Metaphor,Courage
+"Her voice was a melody, calming everyone in the room.",Metaphor,Calmness
+"The news was a bitter pill to swallow, leaving everyone in shock.",Metaphor,Sadness
+"His jokes were a double-edged sword, funny yet hurtful.",Metaphor,Mixed
+"The future is a blank canvas, waiting for us to paint our dreams.",Metaphor,Hope
+"Her tears were a river, flowing endlessly down her cheeks.",Metaphor,Sadness
+"His determination was a blazing fire, unstoppable and fierce.",Metaphor,Determination
+"The idea was a spark, igniting creativity in everyone.",Metaphor,Inspiration
+"Her fear was a shadow, following her wherever she went.",Metaphor,Fear
+"His joy was a fountain, bubbling over with excitement.",Metaphor,Happiness
+"The argument was a storm, raging with no end in sight.",Metaphor,Anger
+"Her kindness was a beacon, guiding others through dark times.",Metaphor,Compassion
+"His betrayal was a dagger, cutting deep into her trust.",Metaphor,Disgust
+"The memory was a ghost, haunting her every thought.",Metaphor,Sadness
+"Her courage was a shield, protecting her from all harm.",Metaphor,Courage
+"His love was a flame, burning brightly and passionately.",Metaphor,Love
+"The disappointment was a heavy stone, weighing her down.",Metaphor,Sadness
+"Her excitement was a firework, bursting with energy.",Metaphor,Happiness
+"His frustration was a pressure cooker, ready to explode.",Metaphor,Frustration
+"The hope was a light, shining through the darkness.",Metaphor,Hope
+"Her confusion was a maze, impossible to navigate.",Metaphor,Confusion
+"His pride was a tower, standing tall and unshakable.",Metaphor,Pride
+"The loneliness was a desert, vast and empty.",Metaphor,Loneliness
+"Her determination was a rock, solid and unyielding.",Metaphor,Determination
+"His guilt was a chain, binding him to his past.",Metaphor,Guilt
+"The excitement was a rollercoaster, thrilling and unpredictable.",Metaphor,Excitement
+"Her patience was a tree, standing strong through every storm.",Metaphor,Patience
+"His curiosity was a magnet, pulling him toward the unknown.",Metaphor,Curiosity
+"The sadness was a cloud, covering everything in gloom.",Metaphor,Sadness
+"Her laughter was a melody, filling the room with joy.",Metaphor,Happiness
+"His fear was a monster, lurking in the shadows.",Metaphor,Fear
+"The anger was a wildfire, spreading uncontrollably.",Metaphor,Anger
+"Her hope was a seed, growing into something beautiful.",Metaphor,Hope
+"His disappointment was a storm, raining down on his dreams.",Metaphor,Sadness
+"The love was a flame, warming their hearts.",Metaphor,Love
+"Her courage was a lion, fierce and unyielding.",Metaphor,Courage
+"His sadness was a river, flowing endlessly.",Metaphor,Sadness
+"The joy was a sunrise, bringing light to the world.",Metaphor,Happiness
+"Her anger was a thunderstorm, loud and destructive.",Metaphor,Anger
+"His fear was a shadow, following him everywhere.",Metaphor,Fear
+"The hope was a star, shining in the darkness.",Metaphor,Hope
+"Her determination was a mountain, unshakable and strong.",Metaphor,Determination
+"His love was a garden, blooming with affection.",Metaphor,Love
+"The sadness was a fog, clouding her mind.",Metaphor,Sadness
+"Her happiness was a rainbow, bright and colorful.",Metaphor,Happiness
+"His frustration was a wall, blocking his progress.",Metaphor,Frustration
+"The excitement was a spark, igniting her enthusiasm.",Metaphor,Excitement
+"Her fear was a spider, crawling into her thoughts.",Metaphor,Fear
+"His anger was a storm, raging inside him.",Metaphor,Anger
+"The love was a melody, playing in their hearts.",Metaphor,Love
+"Her sadness was a weight, dragging her down.",Metaphor,Sadness
+"His joy was a flame, burning brightly.",Metaphor,Happiness
+"The hope was a light, guiding them forward.",Metaphor,Hope
+"Her determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"His fear was a shadow, lurking in the corners.",Metaphor,Fear
+"The anger was a volcano, ready to erupt.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a cloud, covering the sun.",Metaphor,Sadness
+"The happiness was a song, filling the air with joy.",Metaphor,Happiness
+"Her frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"His excitement was a spark, lighting up his face.",Metaphor,Excitement
+"The fear was a monster, hiding under the bed.",Metaphor,Fear
+"Her anger was a storm, brewing on the horizon.",Metaphor,Anger
+"His love was a flame, burning brightly.",Metaphor,Love
+"The sadness was a river, flowing endlessly.",Metaphor,Sadness
+"Her joy was a sunrise, bringing light to the world.",Metaphor,Happiness
+"His determination was a rock, solid and unyielding.",Metaphor,Determination
+"The hope was a star, shining in the darkness.",Metaphor,Hope
+"Her fear was a shadow, following her everywhere.",Metaphor,Fear
+"His anger was a wildfire, spreading uncontrollably.",Metaphor,Anger
+"The love was a melody, playing in their hearts.",Metaphor,Love
+"Her sadness was a fog, clouding her mind.",Metaphor,Sadness
+"His happiness was a rainbow, bright and colorful.",Metaphor,Happiness
+"The frustration was a wall, blocking his progress.",Metaphor,Frustration
+"Her excitement was a spark, igniting her enthusiasm.",Metaphor,Excitement
+"His fear was a spider, crawling into his thoughts.",Metaphor,Fear
+"The anger was a storm, raging inside him.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
+"The sadness was a cloud, covering the sun.",Metaphor,Sadness
+"Her happiness was a song, filling the air with joy.",Metaphor,Happiness
+"His frustration was a knot, impossible to untangle.",Metaphor,Frustration
+"The excitement was a spark, lighting up his face.",Metaphor,Excitement
+"Her fear was a monster, hiding under the bed.",Metaphor,Fear
+"His anger was a storm, brewing on the horizon.",Metaphor,Anger
+"Her love was a rose, beautiful and delicate.",Metaphor,Love
+"His sadness was a weight, dragging him down.",Metaphor,Sadness
+"The joy was a flame, burning brightly.",Metaphor,Happiness
+"Her hope was a light, guiding her forward.",Metaphor,Hope
+"His determination was a fire, unstoppable and fierce.",Metaphor,Determination
+"The fear was a shadow, lurking in the corners.",Metaphor,Fear
+"Her anger was a volcano, ready to erupt.",Metaphor,Anger
+"His love was a melody, playing in his heart.",Metaphor,Love
