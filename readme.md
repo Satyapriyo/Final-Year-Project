@@ -80,7 +80,7 @@ This repository contains my final year project focused on detecting emotions in 
 
 3. Run the Jupyter notebooks:
    ```
-   jupyter notebook
+   streamlit run ./final-version.py
    ```
 
 ## 📈 Results
